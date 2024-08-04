@@ -1,0 +1,20 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: cornsilk;
+}
+.login form{
+    padding: 50px;
+    background-color: azure;
+    text-transform: lowercase;
+}
+ p {
+    font-size: 12px;
+    color:red;
+    visibility: hidden;
+}
+#submit{
+
+    width: 100%;
+    background-color:grey;}
